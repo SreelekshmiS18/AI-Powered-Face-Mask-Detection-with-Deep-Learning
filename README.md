@@ -9,9 +9,7 @@ This project builds a powerful Deep Learning model to classify individuals as we
 🗂 The Dataset
 
 We used a diverse dataset of face images categorized into two classes:
-
 ✅ With Mask – Images of people correctly wearing face masks.
-
 ❌ Without Mask – Images of people without masks.
 
 🔹 The dataset is preprocessed to ensure uniform size, quality, and balanced distribution.
